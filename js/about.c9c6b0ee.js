@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"79d9":function(t,o,n){"use strict";n.r(o);var e=function(){var t=this,o=t.$createElement,n=t._self._c||o;return n("div",[n("div",[n("button",{attrs:{"ion-button":"",color:"light"},on:{click:t.gotoHotel}},[t._v("酒店列表")])])])},i=[],c={name:"开始游戏",props:{title:String},components:{},methods:{gotoHotel:function(){}},data:function(){return{theme:"positive"}}},r=c,u=n("2877"),l=Object(u["a"])(r,e,i,!1,null,"2dcef4e4",null);o["default"]=l.exports}}]);
+//# sourceMappingURL=about.c9c6b0ee.js.map
